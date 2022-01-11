@@ -1,11 +1,11 @@
 {
   "name": "@decentology/hyperverse-algorand",
   "main": "./main.js",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/decentology/hyperverse-algorand"
+    "url": "https://github.com/decentology/npm-hyperverse-algorand"
   },
   "scripts": {
     "build": "webpack --watch --mode development",
